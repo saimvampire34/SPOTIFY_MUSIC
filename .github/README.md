@@ -27,7 +27,7 @@
 
 - Get your [Necessary Variables](https://github.com/BABY-MUSIC/JAZZY/blob/master/sample.env)
 - Upgrade and Update by :
-`sudo apt-get update && sudo apt-get upgrade -y`
+```sudo apt-get update && sudo apt-get upgrade -y```
 - Install Ffmpeg & Python by :
 `sudo apt-get install python3-pip ffmpeg -y`
 - Install pip by :
