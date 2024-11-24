@@ -2,6 +2,7 @@ import threading
 from flask import Flask
 import asyncio
 import importlib
+import config
 from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 from BABYMUSIC import LOGGER, app, userbot
