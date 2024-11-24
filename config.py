@@ -12,7 +12,7 @@ load_dotenv()
 API_ID = int(getenv("API_ID", "16457832"))
 API_HASH = getenv("API_HASH", "3030874d0befdb5d05597deacc3e83ab")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7638229482:AAHmvQzInvrGsBMlotrHmpnzQwwPhAk")
+BOT_TOKEN = getenv("BOT_TOKEN", "7453423431:AAFXjkC_P2nsS5UNb9BOErO9-2bovVIfWiM")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","@UTTAM470")
 # --------------------------------------------------------
@@ -119,7 +119,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "5242880000"))
 # ------------------------------------
 # ------------------------------------
 # ------------------------------------
-STRING1 = getenv("STRING_SESSION", "BQCZzqEAUvJwT1q8d_9YKuGw38KKFaxJ0dwJSwaZBEs-nAJeZzpJJmNosjfdaOX3wQUPnFpH0lU0YzKtjPBNTlmb__dNVMO4SpX9quQGSkYYy6WR7At_ZWcJ0slcKRIPqPnDdxw_x5qtgKJTEaC85p0GyiVIE6qf7BBDV96CjeaTC6nhc8_Es0jyBvzDnmqyd4sSS3g4jn9d3VPIiIFoUEdY7PpiTtw050_sz0ArAnDN1Hi-qeLCmPKTjJUcM4LZ8rZwrz1U25aH9msNhGMO5JPBV39b3O02Nl5kgalkfwhjZt9LAg8OzLFAE-DQH9wAAAAGCXgzzAA")
+STRING1 = getenv("STRING_SESSION", "BQD7IGgAO8nBitn58e84hne-1y7It0ZyIV0FiKKfffO-m6xLkJfn_R1qoaBKt1JVQewfLQ-5SXAQ8buUAGe20r_tCOhHC4WZHi_t-wGBj3VvhV2sMthfSG8UpRDxUs4OLWC9wWhwRPP02ueeMQFjPYb3SGhMXlpNxwELmxox4cKaY0pCxSh-DSzrcC9SdwRMvQPHgvOtN_xdqyWDQhH3PsU6EdhSkgdC1CIoTSxkJt5RpOJBnoqEXwOYIBJ127yTHhwbWe2OifwD-WLnchgcFpj3eDDyJCN0WJO3jaOJKQguo3Hshi6Hs1aXf50E2k472XFult2TOWyyOWitUMzMvZT5Ch2wdwAAAAGpD8oQAA")
 BANNED_USERS = filters.user()
 adminlist = {}
 lyrical = {}
