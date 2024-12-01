@@ -47,13 +47,5 @@ class Userbot(Client):
         try:
             if config.STRING1:
                 await self.one.stop()
-            if config.STRING2:
-                await self.two.stop()
-            if config.STRING3:
-                await self.three.stop()
-            if config.STRING4:
-                await self.four.stop()
-            if config.STRING5:
-                await self.five.stop()
         except:
             pass
